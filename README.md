@@ -1,4 +1,6 @@
-﻿# TESA_NET
+# TESA_NET
+
+![Logo de TESA_NET](tesa_net_logo.jpeg)
 
 Notebook para detectar y analizar grietas visibles en superficies de hormigón mediante una CNN propia y técnicas de visión por computador. El flujo también genera un informe orientativo de inspección.
 
