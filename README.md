@@ -2,6 +2,13 @@
 
 Notebook para detectar y analizar grietas visibles en superficies de hormigón mediante una CNN propia y técnicas de visión por computador. El flujo también genera un informe orientativo de inspección.
 
+## Integrantes
+- Micaela Gonzalez
+- Axel López
+- Guillermo Benítez
+- Marcio Martínez
+- Gustavo Añazco
+
 ## Qué hace
 
 El notebook `Tesa_V0.ipynb` cubre el flujo completo:
